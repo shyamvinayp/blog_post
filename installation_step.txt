@@ -1,0 +1,16 @@
+Read and follow the steps to install application
+==================================================
+
+Attendance Application Installation Steps on Local system
+=========================================================
+1 - Download "attendance_report" folder form server to local system
+2 - Go to "plateform_setup" folder and install "wampserver3.2.3_x64.exe" by double clicking
+3 - Prefer D:// drive to install this wamp server software.
+4 - Copy the project folder "attendance_report" inside "D:\wamp64\www\"
+5 - Open this url on browser "http://localhost/phpmyadmin/"
+6 - Create new Database called "attendence_report"
+7 - Open window command and go to this location "D:\wamp64\www\attendence_report>"
+8 - run installer script eg. D:\wamp64\www\attendence_report>web_installation_script.sh
+9 - Follow the instruction and just click enter enter ...
+		=============Installation completed=============
+10 - Run application on your localhost with this url "http://localhost/attendence_report/"
